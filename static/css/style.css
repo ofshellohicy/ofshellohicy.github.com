@@ -27,6 +27,23 @@ input[type=text]:focus,
 input[type=password]:focus,
 textarea:focus { outline: 0 }
 
+a {
+  color: #00a;
+  text-decoration: none;
+}
+a:link {
+    color: #336699;
+}
+a:visited {
+  color: #a0a;
+}
+a:hover {
+  color: black;
+}
+a:active {
+    background: none repeat scroll 0 0 #FF9933;
+}
+
 .hd:after,
 .bd:after,
 .ft:after,
@@ -34,18 +51,15 @@ textarea:focus { outline: 0 }
 #header:after,
 #footer:after { clear: both; content: " "; display: block; height: 0 }
 
-.inner { width: 960px; margin: 0 auto; background: #ecf0f0; }
-#header { margin-bottom: 0px;}
+.inner { width: 630px; margin: 0 auto; background: #ecf0f0; }
 
 
 /* custom style */
 body { font: 12px/1.5 "Helvetica Neue",Helvetica,"Lucida Grande","Trebuchet MS",Verdana,sans-serif; }
 #gundam-00 { margin: 0 auto }
-.intro { padding: 30px; width: 500px; float: left; }
-.intro h2 { font-size: 24px }
-.intro p { margin: 20px 0 }
-.illus { padding: 30px; float: right; }
+.article { padding: 20px; width: 590px }
+.article h2 { font-size: 24px; margin: 20px auto }
+.article p { margin-top: 20px }
+.illus { margin-bottom: 20px }
 
-#footer .inner { text-align: right }
-.copyright { padding: 30px }
-
+.copyright { padding: 20px; text-align: right }
