@@ -28,20 +28,25 @@ input[type=password]:focus,
 textarea:focus { outline: 0 }
 
 a {
-  color: #00a;
+  color: #a4a;
   text-decoration: none;
 }
 a:link {
-    color: #336699;
+    color: #a4a;
 }
 a:visited {
-  color: #a0a;
+  color: #606;
 }
 a:hover {
-  color: black;
+  color: #a4a;
 }
 a:active {
-    background: none repeat scroll 0 0 #FF9933;
+    background: none repeat scroll 0 0 #a4a;
+}
+
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
 }
 
 .hd:after,
@@ -51,15 +56,24 @@ a:active {
 #header:after,
 #footer:after { clear: both; content: " "; display: block; height: 0 }
 
-.inner { width: 630px; margin: 0 auto; background: #ecf0f0; }
+.inner { padding: 20px; width: 590px; margin: 0 auto; background: #ecf0f0; }
 
 
 /* custom style */
 body { font: 12px/1.5 "Helvetica Neue",Helvetica,"Lucida Grande","Trebuchet MS",Verdana,sans-serif; }
-#gundam-00 { margin: 0 auto }
-.article { padding: 20px; width: 590px }
-.article h2 { font-size: 24px; margin: 20px auto }
-.article p { margin-top: 20px }
-.illus { margin-bottom: 20px }
 
+#header { border-bottom: 1px dashed #a4a; margin-bottom: 20px; height: 44px }
+#header h2 { font-size: 24px }
+
+.article { margin-bottom: 20px }
+
+.article h2 { font-size: 24px; margin: 10px 0 }
+.article p { margin-bottom: 1em 0 }
+
+#status { margin-bottom: 1em }
+span.tag { color: #eee; background-color: #333; padding: 2px 4px }
+#date { color: #900 }
+
+#footer { border-top: 1px dashed #a4a }
 .copyright { padding: 20px; text-align: right }
+.copyright img { vertical-align: text-bottom }
