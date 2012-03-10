@@ -136,9 +136,9 @@ destination: ./_site
 plugins:     ./_plugins
 
 future:      true
-lsi:         true
+lsi:         false
 pygments:    true
-markdown:    maruku
+markdown:    kramdown
 permalink:   date
 
 maruku:
