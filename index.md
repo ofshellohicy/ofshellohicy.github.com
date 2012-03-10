@@ -1,11 +1,11 @@
 ---
-layout: page
-title: Hello World!
+layout: default
+title: ofshellohicy's blog
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Here's a sample "posts list".
+My posts list here:
 
 <ul class="posts">
   {% for post in site.posts %}
