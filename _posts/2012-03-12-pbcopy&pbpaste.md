@@ -41,11 +41,15 @@ pbcopy takes the standard input and places it in the specified pasteboard.
 
 PS: 可以在 ~/.vimrc 里配置这个，以后按F5就会复制到剪切板了
 参照：
+http://vim.wikia.com/wiki/In_line_copy_and_paste_to_system_clipboard
+
 {% highlight vim %}
-"http://vim.wikia.com/wiki/In_line_copy_and_paste_to_system_clipboard
 map <F5> :w !pbcopy<CR>
-"或者更高级一点：
+{% endhighlight %}
+或者更高级一点：
+
+{% highlight vim %}
 vmap <C-c> y:call system("pbcopy", getreg("\""))<CR>
 nmap <C-v> :call setreg("\"",system("pbpaste"))<CR>p
-"至此终于可以随意的复制粘贴，无缝结合。
 {% endhighlight %}
+至此终于可以随意的复制粘贴，无缝结合。
