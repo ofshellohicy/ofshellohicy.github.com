@@ -21,7 +21,7 @@ tags:
 
 歌：LiSA　　　作詞・作曲：渡辺翔　　　編曲：とく
 
-[![](/upload/saber.jpg)](/upload/saber.jpg)
+[![](/upload/saber-small.jpg)](/upload/saber.jpg)
 
 くり返す世界　何度手を伸ばしたら【重复着的世界，多少次地伸出双手】  
 儚い涙は　黒い心溶かすの?【短暂的泪水 能否溶解黑暗的心灵】  

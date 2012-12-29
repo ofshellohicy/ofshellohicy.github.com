@@ -24,7 +24,7 @@ pbcopy takes the standard input and places it in the specified pasteboard.
 
 1. 按v进入可视模式
 2. 并选择文本
-3. 进入命令行模式, 输入 w !pbcopy (将选择的内容写入 pbcopy )
+3. 进入命令行模式, 输入 w !pbcopy (将选择的内容写入 pbcopy )  
 ![](http://ofshellohicy.info/upload/pbcopy.png)
 4. 然后可以用 command + v 来粘贴了^_^
 
