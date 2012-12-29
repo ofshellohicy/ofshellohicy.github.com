@@ -1,0 +1,83 @@
+---
+comments: true
+date: 2011-03-12 22:50:46
+layout: post
+slug: exia
+title: 刹那·F·清英
+wordpress_id: 45
+categories:
+- 动漫
+- 说说
+tags:
+- acg
+- anime
+- exia
+- gundam
+- say
+- 动漫
+---
+
+**Gundam Exia.**
+
+** **
+**名称：**GN-001 Gundam Exia/ガンダムエクシア/能天使高达（音译：艾克西亚）  
+**型号：**GN-001  
+**动力装置：**GN太阳炉（GN Drive）  
+**推进器：**GN粒子推进器（GN Particle Vernier Thruster）  
+**定位：**近战格斗型人型兵器（Close-Quarters Combat Mobile Suit）  
+**操作系统：**不明  
+**驾驶员：**刹那·F·清英  
+**高：**18.3米  
+**重量：**57.2公吨
+
+[![](/upload/exia.jpg)](/upload/exia.jpg)
+
+** 装甲：**E碳（E-Carbon）  
+** 隶属：**天人武装组织（Celestial Being）  
+** 服役年份：**A.D.2307年  
+** 出场：**《机动战士高达00》第一话  
+** 制造者：**天人武装组织（Celestial Being）  
+** 涂装特色：**白、蓝、红（白、灰为原型未上色状态）  
+** 机体出力：**72马赫  
+** 推进力：**72马赫  
+** 设计者：**海老川兼武  
+**模型：**  
+
+	1/144 HG  
+	1/144 FG  
+	GN Arms + Gundam Exia Trans-Am Mode HG 1/144  
+	1/100 MG  
+	1/100 HG  
+	1/60 HG  
+	Gundam Collection  
+	Gundam Collection Complex  
+	1/200 HCM Pro  
+	1/200 HCM Pro SP  
+
+**内部特殊配备：**
+
+	GN太阳炉（GN Drive，GNドライヴ）
+	Trans-Am系统（Trans-Am System，トランサムモード）
+	外部迷彩膜生成器
+	
+_**标准武装：**
+
+	_GN复合式枪剑装（GN Rifle-Sword Mode/GNソード・ライフルモード）
+	GN火神炮（GN Vulcan Cannon/GNバルカン）——包含在GN复合式枪剑装内
+	GN盾牌（GN Shield/GNシールド）
+	
+**_七剑系统：_**
+
+	GN战剑（GN Sword/GNソード）——包含在GN复合式枪剑装内
+	GN长剑（GN Long Blade/GNロングブレイド）
+	GN短剑（GN Short Blade/GNショートブレイド）
+	GN光束军刀（GN Beam Saber/GNビームサーベル）×2
+	GN光束匕首（GN Beam Dagger/GNビームダガー）×2
+	
+**_可选武装：_**
+
+	GN Arms E型·艾斯亚专用（GN Arms Type E - Exia Custom）
+
+刹那的意志：“这个世界的扭曲，由我来斩断”、“我就是Gundam"，这种气魄使他成为人类第一个真正的变革者。也是他战斗的理由。不管是什么，错误的事情就要去改变，未来需要自己去开创，去守护。这也是他存在的意义，也因此而变得耀眼起来。
+
+经常会突然想起高达00的故事，记得每一集都看过6、7遍呢。
