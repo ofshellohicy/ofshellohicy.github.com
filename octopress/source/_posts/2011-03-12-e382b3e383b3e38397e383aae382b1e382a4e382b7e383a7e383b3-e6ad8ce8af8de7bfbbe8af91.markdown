@@ -2,7 +2,7 @@
 comments: true
 date: 2011-03-12 22:15:54
 layout: post
-slug: '%e3%82%b3%e3%83%b3%e3%83%97%e3%83%aa%e3%82%b1%e3%82%a4%e3%82%b7%e3%83%a7%e3%83%b3-%e6%ad%8c%e8%af%8d%e7%bf%bb%e8%af%91'
+slug: Complication
 title: コンプリケイション 歌词翻译
 wordpress_id: 22
 categories:
@@ -18,9 +18,9 @@ tags:
 - 无头骑士异闻录
 ---
 
-曲名：コンプリケイション
-作词：SHINNOSUKE
-作曲：ROOKiEZ is PUNK'D
+曲名：コンプリケイション  
+作词：SHINNOSUKE  
+作曲：ROOKiEZ is PUNK'D  
 出自：《无头骑士异闻录》 OP2
 
 泣き出しそうな颜で忧う低い空 【阴沉的天空下 你仿佛要流泪的表情
@@ -109,4 +109,4 @@ tags:
 
 もがき辉く 【唯有以抗争来展现光辉
 
-[![](http://ofshellohicy.info/wp-content/uploads/2011/03/wt-1024x403.jpg)](http://ofshellohicy.info/wp-content/uploads/2011/03/wt.jpg)
+[![](/upload/wt-1024x403.jpg)](/upload/wt.jpg)
