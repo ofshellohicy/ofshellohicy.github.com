@@ -2,7 +2,7 @@
 comments: true
 date: 2011-03-12 22:07:39
 layout: post
-slug: '%e8%af%b4%e8%af%b4%e7%ba%aa%e7%94%b0%e3%80%90%e6%97%a0%e5%a4%b4%e9%aa%91%e5%a3%ab%e5%bc%82%e9%97%bb%e5%bd%95%e3%80%91%ef%bc%88%e5%86%85%e5%90%ab%e6%97%a0%e5%a4%b4%e5%89%a7%e6%83%85%ef%bc%8c%e6%85%8e'
+slug: 纪田正臣
 title: 说说纪田【无头骑士异闻录】（内含无头剧情，慎入）
 wordpress_id: 17
 categories:
@@ -32,6 +32,6 @@ tags:
 
 最终，纪田找到了归宿，故事终于尘埃落定。
 
-[![](http://ofshellohicy.info/wp-content/uploads/2011/03/jt-300x169.jpg)](http://ofshellohicy.info/wp-content/uploads/2011/03/jt.jpg)
+[![](/upload/jt-300x169.jpg)](/upload/jt.jpg)
 
 
